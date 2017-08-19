@@ -1,0 +1,1 @@
+The project allows users to see courses conducted by the college of computing and informatics and the students currently enrolled in them. It also has an interface to view and search the records in the database in a tabular format on a simple webpage.
